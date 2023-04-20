@@ -1,0 +1,75 @@
+@font-face {
+  font-family: BebasNeue;
+  src: url("extras/fonts/Bebas_Neue/BebasNeue-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: FiraSans;
+  src: url("extras/fonts/Fira_Sans/FiraSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Inter;
+  src: url("extras/fonts/Inter/static/Inter-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Karla;
+  src: url("extras/fonts/Karla/static/Karla-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Lato;
+  src: url("extras/fonts/Lato/Lato-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Montserrat;
+  src: url("extras/fonts/Montserrat/static/Montserrat-Regular.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: NunitoSans;
+  src: url("extras/fonts/Nunito_Sans/NunitoSans-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Oswald;
+  src: url("extras/fonts/Oswald/static/Oswald-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Poppins;
+  src: url("extras/fonts/Poppins/Poppins-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Raleway;
+  src: url("extras/fonts/Raleway/static/Raleway-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Roboto;
+  src: url("extras/fonts/Roboto/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: Rubik;
+  src: url("extras/fonts/Rubik/static/Rubik-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: SourceSansPro;
+  src: url("extras/fonts/Source_Sans_Pro/SourceSansPro-Regular.ttf")
+    format("truetype");
+}
+@font-face {
+  font-family: Ubuntu;
+  src: url("extras/fonts/Ubuntu/Ubuntu-Regular.ttf") format("truetype");
+}
+
+body {
+  /* font-family: BebasNeue, cursive; */
+  /* font-family: FiraSans, sans-serif; */
+  /* font-family: Inter, sans-serif; */
+  /* font-family: Karla, sans-serif; */
+  /* font-family: Lato, sans-serif; */
+  /* font-family: Montserrat, sans-serif; */
+  /* font-family: NunitoSans, sans-serif; */
+  /* font-family: Oswald, sans-serif; */
+  /* font-family: Poppins, sans-serif; */
+  /* font-family: Raleway, sans-serif; */
+  /* font-family: Roboto, sans-serif; */
+  /* font-family: Rubik, sans-serif; */
+  /* font-family: SourceSansPro, sans-serif; */
+  /* font-family: Ubuntu, sans-serif; */
+}
